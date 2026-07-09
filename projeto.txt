@@ -1,0 +1,8 @@
+Primeiro exercicio
+futuros projetos*
+criação de api para monitoramento de rede
+criação de api para gerenciamento de entregas para motoboys, 
+como controle de caixa como valor de cada entrega, trajetos das entregas,
+localização, horarios e que pudesse gerar um relatorio sobre os pico de movimento
+durante o dia da entrega.
+Mas que tambem pudesse unificar diversas plataformas entregas para filtragem de valores, distancia e descrição.
